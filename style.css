@@ -1,0 +1,28 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: darkviolet;
+}
+#purchase{
+    background-color: deepskyblue;
+}
+#b1{
+    border-color: red;
+    border-style: ridge;
+    background-color: blue;
+    color: white;
+    margin-top: 20px;
+}
+#b1:hover{
+    cursor: pointer;
+    background-color: green;
+    border-color: blue;
+}
